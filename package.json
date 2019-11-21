@@ -1,0 +1,25 @@
+{
+  "name": "@marcelkordek/tiny",
+  "version": "0.0.1",
+  "description": "Removes all spaces from a string",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish --access=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelkordek/tiny.git"
+  },
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "marcelkordek"
+  ],
+  "author": "Marcel Kordek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcelkordek/tiny/issues"
+  },
+  "homepage": "https://github.com/marcelkordek/tiny#readme"
+}
